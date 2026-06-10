@@ -75,7 +75,7 @@ export const constructRow = (part) => {
       <td>${part.name}</td>
       <td>${part.category}</td>
       <td>
-        <a href="${part.source}">Wiki</td>
+        <a href="${part.source}">Wiki</a></td>
     </tr>
   `;
 };
