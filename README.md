@@ -1,5 +1,5 @@
 # PhyCom Parts
-TODO
+A searchable parts list for the FHNW Physical Computing module.
 
 ## Build
 Because there are no external dependencies and nothing to build, not build system is needed.
