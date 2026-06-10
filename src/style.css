@@ -1,0 +1,58 @@
+:root {
+  --background-color: #ffffff;
+  --font-color: #141414;
+  --primary: #fde70e;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("assets/fonts/jetbrains-mono-v20-latin_latin-ext-500.woff2")
+    format("woff2");
+}
+
+body {
+  color: var(--font-color);
+  background-color: var(--background-color);
+
+  height: 100vh;
+  margin: 0;
+
+  display: grid;
+  grid-template-rows: 10% 1fr 5%;
+
+  font-family: "Jetbrains Mono";
+  font-size: 1.2vh;
+}
+
+header {
+  background-color: var(--primary);
+  align-content: center;
+  grid-template-columns: 20% 1fr;
+  padding: 0.1em 1em;
+
+  h1 {
+    font-size: 3vh;
+    margin-bottom: 0;
+  }
+
+  h2 {
+    font-size: 1.5vh;
+    margin-top: 0;
+  }
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--font-color);
+}
+
+input {
+  font-family: "Jetbrains Mono";
+  font-size: 1em;
+  color: var(--font-color);
+}
+
+footer {
+  margin: auto;
+}
