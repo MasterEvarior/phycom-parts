@@ -89,10 +89,10 @@ export const constructTable = (parts) => {
   return `
     <table>
       <tr>
-        <th>Image</th>
-        <th>Name</th>
-        <th>Category</th>
-        <th>Source</th>
+        <th>IMAGE</th>
+        <th>NAME</th>
+        <th>CATEGORY</th>
+        <th>SOURCE</th>
       </tr>
       ${parts.map((p) => constructRow(p)).reduce((a, b) => a + " " + b, "")}
     </table>
