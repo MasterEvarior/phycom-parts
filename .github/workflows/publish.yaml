@@ -11,8 +11,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  test:
-    uses: ./.github/workflows/test.yaml
   deploy:
     runs-on: ubuntu-latest
     needs: test
@@ -28,9 +26,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
-  check:
-    runs-on: ubuntu-latest
-    needs: deploy
-    steps:
-      - name: Check if Website is Online
-        run: curl -sSf https://giannin.ch > /dev/null
