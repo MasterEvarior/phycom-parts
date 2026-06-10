@@ -6,9 +6,37 @@
  * @property {string} image - The URL to an image of the component.
  */
 
+/**
+ * Load data from JSON file
+ * @returns {Part[]} - All available parts
+ */
 export const loadData = async () => {
   const response = await fetch("../data.json");
   return await response.json();
+};
+
+/**
+ * Filter all parts depending on the search terms, which are just the search term split by " "
+ * @param {string} input - Search term the user entered
+ * @param {Part[]} parts - All parts that should be filtered
+ * @returns {Part[]} - A list of filtered parts
+ */
+export const filter = (input, parts) => {
+  return parts.filter((p) => {
+    const partIdentity = (p.name + " " + p.category).toLocaleLowerCase();
+    const searchTerms = input.toLocaleLowerCase().split(" ");
+
+    console.log(partIdentity);
+
+    for (const term of searchTerms) {
+      if (!partIdentity.includes(term)) {
+        console.log(`${partIdentity} does not include ${term}`);
+        return false;
+      }
+    }
+
+    return true;
+  });
 };
 
 /**
@@ -16,7 +44,6 @@ export const loadData = async () => {
  * @param {string} html - The HTML content to display.
  */
 export const setOutput = (html) => {
-  console.log(html);
   document.getElementById("output").innerHTML = html;
 };
 
@@ -74,14 +101,24 @@ export const constructTable = (parts) => {
 
 /**
  * Initializes the command input listener and sets up event handling.
- * Listens for the Enter key press to execute user input commands.
  */
 export const setup = async () => {
   const data = await loadData();
+  const input = document.getElementById("input");
 
-  const prompt = document.getElementById("input");
-  prompt.addEventListener("keyup", (e) => {
-    const result = constructTable(data);
+  // Display data once initially
+  const result = constructTable(data);
+  setOutput(result);
+
+  input.addEventListener("keyup", (_) => {
+    const searchInput = input.value;
+    let parts = data;
+
+    if (searchInput) {
+      parts = filter(input.value, data);
+    }
+
+    const result = constructTable(parts);
     setOutput(result);
   });
 };
