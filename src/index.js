@@ -48,20 +48,6 @@ export const setOutput = (html) => {
 };
 
 /**
- * Executes a command based on user input.
- * Searches for a matching command by name, otherwise falls back to the default command.
- * @param {string} input - The command input by the user.
- * @param {Array<Command>} commands - The list of available commands.
- * @returns {string} - The output of the command
- */
-export const executeCommand = (input, commands) => {
-  const command =
-    commands.find((c) => c.names.includes(input)) ??
-    getDefaultCommand(commands);
-  return command.output(input);
-};
-
-/**
  * Create a single row, out of a single part
  * @param {Part} part - Single part to display.
  * @returns {string} - A single <tr>.
@@ -70,7 +56,7 @@ export const constructRow = (part) => {
   return `
     <tr>
       <td>
-        <img src="${part.image}" alt=${part.name}>
+        <img src="${part.image}" alt="${part.name}">
       </td>
       <td>${part.name}</td>
       <td>${part.category}</td>
