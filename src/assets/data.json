@@ -1,73 +1,73 @@
 [
   {
     "name": "4-Digit Display (TM1637)",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Actuators",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Actuators",
     "category": "actuator",
     "image": "https://c2.staticflickr.com/8/7856/47017600392_52c6ed6e58.jpg"
   },
   {
     "name": "Buzzer",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Actuators",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Actuators",
     "category": "actuator",
     "image": "https://c2.staticflickr.com/8/7827/47017600362_63de91d570_m.jpg"
   },
   {
     "name": "Chainable RGB LED",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Actuators",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Actuators",
     "category": "actuator",
     "image": "https://c2.staticflickr.com/8/7896/47017600302_6767c123de.jpg"
   },
   {
     "name": "LED",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Actuators",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Actuators",
     "category": "actuator",
     "image": "https://c2.staticflickr.com/8/7884/47197903001_4992d1ae02_m.jpg"
   },
   {
     "name": "Button",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Sensors",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Sensors",
     "category": "sensor",
     "image": "https://c2.staticflickr.com/8/7922/47017455362_0ae8aa600e_m.jpg"
   },
   {
     "name": "Light Sensor v1.2",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Sensors",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Sensors",
     "category": "sensor",
     "image": "https://c2.staticflickr.com/8/7904/47017455272_85d562ebc7_m.jpg"
   },
   {
     "name": "Rotary Angle Sensor",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Sensors",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Sensors",
     "category": "sensor",
     "image": "https://c2.staticflickr.com/8/7914/47069477541_e490cb831e_m.jpg"
   },
   {
     "name": "Temperature & Humidity Sensor (DHT11)",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Sensors",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Sensors",
     "category": "sensor",
     "image": "https://c2.staticflickr.com/8/7895/32128011907_1fb438460d.jpg"
   },
   {
     "name": "Ultrasonic Ranger",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Sensors",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Sensors",
     "category": "sensor",
     "image": "https://c2.staticflickr.com/8/7920/47069566171_55329078d0.jpg"
   },
   {
     "name": "Grove Shield for Feather",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Adapters",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters",
     "category": "adapter",
     "image": "https://c1.staticflickr.com/5/4809/46259628264_2bba60a797_b.jpg"
   },
   {
     "name": "Grove Base Hat for Raspberry Pi",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Adapters",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters",
     "category": "adapter",
     "image": "https://c2.staticflickr.com/8/7908/46322891174_d7aede24dc_o.jpg"
   },
   {
     "name": "Grove Jumper Wires",
-    "source": "https://github.com/tamberg/fhnw-iot.wiki/wiki/Grove-Adapters",
+    "source": "https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters",
     "category": "cable",
     "image": "https://c2.staticflickr.com/8/7813/40261306743_f738253c36_z.jpg"
   }
