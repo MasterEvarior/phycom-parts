@@ -85,12 +85,20 @@ export const constructTable = (parts) => {
   `;
 };
 
+export const setSearchLabel = (parts) => {
+  const label = document.getElementById("label");
+  label.innerText = `SEARCH (${parts.length})`;
+};
+
 /**
  * Initializes the command input listener and sets up event handling.
  */
 export const setup = async () => {
   const data = await loadData();
   const input = document.getElementById("input");
+
+  // Set Initial available parts
+  setSearchLabel(data);
 
   // Display data once initially
   const result = constructTable(data);
@@ -102,6 +110,7 @@ export const setup = async () => {
 
     if (searchInput) {
       parts = filter(input.value, data);
+      setSearchLabel(parts);
     }
 
     const result = constructTable(parts);
