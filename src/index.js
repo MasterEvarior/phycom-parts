@@ -11,7 +11,7 @@
  * @returns {Part[]} - All available parts
  */
 export const loadData = async () => {
-  const response = await fetch("./assets/data.json");
+  const response = await fetch("./assets/fhnw-iot-library.json");
   return await response.json();
 };
 

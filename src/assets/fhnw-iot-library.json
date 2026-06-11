@@ -1,0 +1,1046 @@
+[
+  {
+    "name": "Thermocouple Temperature Sensor K Type-1M",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Sensor_Probes/Thermocouple_Temperature_Sensor_K_Type-1M.md",
+    "category": "sensor_probe",
+    "image": null
+  },
+  {
+    "name": "Waterproof Temperature Sensor 1-Wire DS18B20",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Sensor_Probes/Waterproof_Temperature_Sensor_1-Wire_DS18B20.md",
+    "category": "sensor_probe",
+    "image": null
+  },
+  {
+    "name": "Screws 2.5 x 16mm Metal Inbus",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Screws/Screws_2.5x16mm_Metal_Inbus.md",
+    "category": "screw",
+    "image": null
+  },
+  {
+    "name": "Feather Headers F Short",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Headers/Feather_Headers_F_Short.md",
+    "category": "header",
+    "image": null
+  },
+  {
+    "name": "Feather Headers F Stacking",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Headers/Feather_Headers_F_Stacking.md",
+    "category": "header",
+    "image": null
+  },
+  {
+    "name": "Feather Headers M",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Headers/Feather_Headers_M.md",
+    "category": "header",
+    "image": null
+  },
+  {
+    "name": "NEMA 8 Stepper Motor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Motors/NEMA_8_Stepper_Motor.md",
+    "category": "motor",
+    "image": "https://peacosupport.com/image/cache/catalog/nema-8-stepper-motor-high-torque-1.8-degree-20-20mm-4.8v-5.75v-3-1100x1100.gif"
+  },
+  {
+    "name": "TT DC Gearbox Motor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Motors/TT_DC_Gearbox_Motor.md",
+    "category": "motor",
+    "image": "https://cdn-shop.adafruit.com/970x728/3777-00.jpg"
+  },
+  {
+    "name": "Li-Ion Battery JST-PH 2-pin 3.7V 3000mAh 18650",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Batteries/Li-Ion_Battery_JST-PH_2-pin_3.7V_3000mAh_18650.md",
+    "category": "battery",
+    "image": null
+  },
+  {
+    "name": "LiPo Battery JST-PH 2-pin 3.7V 2000mAh 103450",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Batteries/LiPo_Battery_JST-PH_2-pin_3.7V_2000mAh_103450.md",
+    "category": "battery",
+    "image": null
+  },
+  {
+    "name": "LiPo Battery JST-PH 2-pin 3.7V 400mAh 801735",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Batteries/LiPo_Battery_JST-PH_2-pin_3.7V_400mAh_801735.md",
+    "category": "battery",
+    "image": null
+  },
+  {
+    "name": "Power Supply 12V DC 4000mA 2.1-5.5mm Plug",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Power_Supplies/Power_Supply_12V_DC_4000mA_2.1-5.5mm_Plug.md",
+    "category": "power_supply",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi Power Supply 12.5W USB-Micro",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Power_Supplies/Raspberry_Pi_Power_Supply_12.5W_USB-Micro.md",
+    "category": "power_supply",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi Power Supply 27W USB-C",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Power_Supplies/Raspberry_Pi_Power_Supply_27W_USB-C.md",
+    "category": "power_supply",
+    "image": null
+  },
+  {
+    "name": "Arcade Button 24mm Translucent Blue w/ LED",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Arcade_Button_24mm_Translucent_Blue_w_LED.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Arcade Button 24mm Translucent Clear w/ LED",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Arcade_Button_24mm_Translucent_Clear_w_LED.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Arcade Button 24mm Translucent Red w/ LED",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Arcade_Button_24mm_Translucent_Red_w_LED.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Arcade Button 24mm Translucent Yellow w/ LED",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Arcade_Button_24mm_Translucent_Yellow_w_LED.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Arcade Button 30mm Translucent Blue",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Arcade_Button_30mm_Translucent_Blue.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Arcade Button 30mm Translucent Clear",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Arcade_Button_30mm_Translucent_Clear.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Arcade Button 30mm Translucent Red",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Arcade_Button_30mm_Translucent_Red.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Arcade Button 30mm Translucent Yellow",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Arcade_Button_30mm_Translucent_Yellow.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Tactile Button Switch 12mm",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Tactile_Button_Switch_12mm.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Tactile Button Switch 6mm",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Buttons/Tactile_Button_Switch_6mm.md",
+    "category": "button",
+    "image": null
+  },
+  {
+    "name": "Voltaic Solar Panel 6V 2W",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Solar_Panels/Voltaic_Solar_Panel_6V_2W.md",
+    "category": "solar_panel",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthepihut.com%2Fcdn%2Fshop%2Ffiles%2F6v-2w-solar-panel-etfe-voltaic-p126-voltaic-systems-ada5366-41210723172547_800x.jpg%3Fv%3D1700837409&f=1&nofb=1&ipt=a715257e28a2680dda257f507aa9b6522b25b605bfe9c8e9a6952e7a54047f01"
+  },
+  {
+    "name": "Grove Cable 20cm",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_20cm.md",
+    "category": "cable",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-cdn.seeedstudio.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fbb49d3ec4ee05b6f018e93f896b8a25d%2F1%2F-%2F1-100052406_grove_-_uart_crossover_cable_4pin_20cm_5pcs_pack_.jpg&f=1&nofb=1&ipt=7d662a6a545efd65aec883231e04bb4a5fa83e79717f680a9814ec0ddcb0596f"
+  },
+  {
+    "name": "Grove Cable 30cm",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_30cm.md",
+    "category": "cable",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-cdn.seeedstudio.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fbb49d3ec4ee05b6f018e93f896b8a25d%2F1%2F-%2F1-100052406_grove_-_uart_crossover_cable_4pin_20cm_5pcs_pack_.jpg&f=1&nofb=1&ipt=7d662a6a545efd65aec883231e04bb4a5fa83e79717f680a9814ec0ddcb0596f"
+  },
+  {
+    "name": "Grove Cable 40cm",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_40cm.md",
+    "category": "cable",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-cdn.seeedstudio.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fbb49d3ec4ee05b6f018e93f896b8a25d%2F1%2F-%2F1-100052406_grove_-_uart_crossover_cable_4pin_20cm_5pcs_pack_.jpg&f=1&nofb=1&ipt=7d662a6a545efd65aec883231e04bb4a5fa83e79717f680a9814ec0ddcb0596f"
+  },
+  {
+    "name": "Grove Cable 50cm",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_50cm.md",
+    "category": "cable",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-cdn.seeedstudio.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fbb49d3ec4ee05b6f018e93f896b8a25d%2F1%2F-%2F1-100052406_grove_-_uart_crossover_cable_4pin_20cm_5pcs_pack_.jpg&f=1&nofb=1&ipt=7d662a6a545efd65aec883231e04bb4a5fa83e79717f680a9814ec0ddcb0596f"
+  },
+  {
+    "name": "Grove Cable 5cm",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_5cm.md",
+    "category": "cable",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-cdn.seeedstudio.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fbb49d3ec4ee05b6f018e93f896b8a25d%2F1%2F-%2F1-100052406_grove_-_uart_crossover_cable_4pin_20cm_5pcs_pack_.jpg&f=1&nofb=1&ipt=7d662a6a545efd65aec883231e04bb4a5fa83e79717f680a9814ec0ddcb0596f"
+  },
+  {
+    "name": "Grove Cable to Jumper F",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_to_Jumper_F.md",
+    "category": "cable",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.rapidonline.com%2Fcatalogueimages%2Fproduct%2F75%2F04%2Fs75-0437p02wc.jpg&f=1&nofb=1&ipt=d967e6929b10d2c543919f2fc99e4de7f3a07d61a36b0decfb40d420834ed6d7"
+  },
+  {
+    "name": "Grove Cable to Jumper M",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_to_Jumper_M.md",
+    "category": "cable",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frobu.in%2Fwp-content%2Fuploads%2F2019%2F10%2FPhotoGrid-768x768.jpg&f=1&nofb=1&ipt=da4b61acdfd0644e62b0c72ae00b4fcd41b5a8ac5eea6d4a4a52a0c53808d9f4"
+  },
+  {
+    "name": "Grove Cable to Qwiic",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_to_Qwiic.md",
+    "category": "cable",
+    "image": null
+  },
+  {
+    "name": "Grove Cable to Servo",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_to_Servo.md",
+    "category": "cable",
+    "image": null
+  },
+  {
+    "name": "USB-A Cable 1m to B",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/USB-A_Cable_1m_to_B.md",
+    "category": "cable",
+    "image": null
+  },
+  {
+    "name": "USB-A Cable 1m to C",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/USB-A_Cable_1m_to_C.md",
+    "category": "cable",
+    "image": null
+  },
+  {
+    "name": "USB-A Cable 1m to Micro",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/USB-A_Cable_1m_to_Micro.md",
+    "category": "cable",
+    "image": null
+  },
+  {
+    "name": "USB-C Cable 1m",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/USB-C_Cable_1m.md",
+    "category": "cable",
+    "image": null
+  },
+  {
+    "name": "USB-C Cable 1m to Micro",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Cables/USB-C_Cable_1m_to_Micro.md",
+    "category": "cable",
+    "image": null
+  },
+  {
+    "name": "LED Red 5mm",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/LEDs/LED_Red_5mm.md",
+    "category": "led",
+    "image": null
+  },
+  {
+    "name": "Full Sized Breadboard",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Breadboards/Full_Sized_Breadboard.md",
+    "category": "breadboard",
+    "image": null
+  },
+  {
+    "name": "Half Sized Breadboard",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Breadboards/Half_Sized_Breadboard.md",
+    "category": "breadboard",
+    "image": null
+  },
+  {
+    "name": "Tiny Breadboard",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Breadboards/Tiny_Breadboard.md",
+    "category": "breadboard",
+    "image": null
+  },
+  {
+    "name": "Jumper Wires 75mm F-F",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Wires/Jumper_Wires_75mm_F-F.md",
+    "category": "wire",
+    "image": null
+  },
+  {
+    "name": "Jumper Wires 75mm F-M",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Wires/Jumper_Wires_75mm_F-M.md",
+    "category": "wire",
+    "image": null
+  },
+  {
+    "name": "Jumper Wires 75mm M-M",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Parts/Wires/Jumper_Wires_75mm_M-M.md",
+    "category": "wire",
+    "image": null
+  },
+  {
+    "name": "ST-Link v2 Programmer",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Tools/Programmers/ST-Link_v2_Programmer.md",
+    "category": "programmer",
+    "image": null
+  },
+  {
+    "name": "Nordic Power Profiler Kit nRF PPK2",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Tools/Profilers/Nordic_Power_Profiler_Kit_nRF_PPK2.md",
+    "category": "profiler",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi Debug Probe SWD UART",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Tools/Debug_Probes/Raspberry_Pi_Debug_Probe_SWD_UART.md",
+    "category": "debug_probe",
+    "image": null
+  },
+  {
+    "name": "USB-C Cable FTDI Serial TTL-232 3V UART FT232R",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Tools/Debug_Probes/USB-C_Cable_FTDI_Serial_TTL-232_3V_UART_FT232R.md",
+    "category": "debug_probe",
+    "image": null
+  },
+  {
+    "name": "Feather to Grove Adapter",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Adapters/Feather_to_Grove_Adapter.md",
+    "category": "adapter",
+    "image": null
+  },
+  {
+    "name": "Microbit to Grove Adapter",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Adapters/Microbit_to_Grove_Adapter.md",
+    "category": "adapter",
+    "image": null
+  },
+  {
+    "name": "Pi Pico to Grove Adapter",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Adapters/Pi_Pico_to_Grove_Adapter.md",
+    "category": "adapter",
+    "image": null
+  },
+  {
+    "name": "Pi Zero to Grove Adapter Base Hat",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Adapters/Pi_Zero_to_Grove_Adapter_Base_Hat.md",
+    "category": "adapter",
+    "image": null
+  },
+  {
+    "name": "Pi to Grove Adapter ADC Hat 8-ch 12-bit",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Adapters/Pi_to_Grove_Adapter_ADC_Hat_8-ch_12-bit.md",
+    "category": "adapter",
+    "image": null
+  },
+  {
+    "name": "Pi to Grove Adapter Base Hat",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Adapters/Pi_to_Grove_Adapter_Base_Hat.md",
+    "category": "adapter",
+    "image": null
+  },
+  {
+    "name": "Xiao to Grove Adapter",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Adapters/Xiao_to_Grove_Adapter.md",
+    "category": "adapter",
+    "image": null
+  },
+  {
+    "name": "Grove Button",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Button.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Button Dual",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Button_Dual.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Button P",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Button_P.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Button w/ Red LED",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Button_w_Red_LED.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove CO2 Temperature Humidity Sensor SCD30",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_CO2_Temperature_Humidity_Sensor_SCD30.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Capacitive Moisture Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Capacitive_Moisture_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Electricity Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Electricity_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Hall Sensor A1101",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Hall_Sensor_A1101.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Human Presence Sensor AK9753",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Human_Presence_Sensor_AK9753.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove IR Distance Interrupter",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_IR_Distance_Interrupter.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove IR Receiver",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_IR_Receiver.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove IR Reflective Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_IR_Reflective_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Laser PM2.5 Particle Sensor HM3301",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Laser_PM2.5_Particle_Sensor_HM3301.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Light Sensor LDR",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Light_Sensor_LDR.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Light Sensor LS06-S",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Light_Sensor_LS06-S.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Magnetic Switch CT10",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Magnetic_Switch_CT10.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Multichannel Gas Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Multichannel_Gas_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove PIR Motion Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_PIR_Motion_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove PIR Motion Sensor Adjustable",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_PIR_Motion_Sensor_Adjustable.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove PM2.5 Dust Sensor PPD42NS",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_PM2.5_Dust_Sensor_PPD42NS.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Rotary Angle Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Rotary_Angle_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Rotary Encoder",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Rotary_Encoder.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Slide Potentiometer",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Slide_Potentiometer.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Soil Moisture Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Soil_Moisture_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Sound Sensor LM358",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Sound_Sensor_LM358.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Temperature Humidity Sensor DHT11",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Temperature_Humidity_Sensor_DHT11.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Temperature Humidity Sensor DHT22",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Temperature_Humidity_Sensor_DHT22.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Temperature Humidity Sensor SHT31",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Temperature_Humidity_Sensor_SHT31.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Tilt Switch",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Tilt_Switch.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove ToF Distance Sensor VL53L0X",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_ToF_Distance_Sensor_VL53L0X.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Touch Sensor TTP223",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Touch_Sensor_TTP223.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Turbidity Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Turbidity_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove UV Sensor GUVA-S12D",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_UV_Sensor_GUVA-S12D.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Ultrasonic Distance Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Ultrasonic_Distance_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove VOC eCO2 Gas Sensor SGP30",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_VOC_eCO2_Gas_Sensor_SGP30.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Water EC Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Water_EC_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Water ORP Sensor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Water_ORP_Sensor.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Grove Water Sensor RC0603JR",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Water_Sensor_RC0603JR.md",
+    "category": "sensor",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi Camera Module 2",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Cameras/Raspberry_Pi_Camera_Module_2.md",
+    "category": "camera",
+    "image": null
+  },
+  {
+    "name": "Whadda Pi Camera Module With IR Lights",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Cameras/Whadda_Pi_Camera_Module_With_IR_Lights.md",
+    "category": "camera",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi 2 Model B",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Computers/Raspberry_Pi_2_Model_B.md",
+    "category": "computer",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi 3 Model B",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Computers/Raspberry_Pi_3_Model_B.md",
+    "category": "computer",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi 4",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Computers/Raspberry_Pi_4.md",
+    "category": "computer",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi 5",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Computers/Raspberry_Pi_5.md",
+    "category": "computer",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi Zero 2 W",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Computers/Raspberry_Pi_Zero_2_W.md",
+    "category": "computer",
+    "image": null
+  },
+  {
+    "name": "Raspberry Pi Zero W",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Computers/Raspberry_Pi_Zero_W.md",
+    "category": "computer",
+    "image": null
+  },
+  {
+    "name": "Grove 3-Color E-Ink 2.13 Display",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/Grove_3-Color_E-Ink_2.13_Display.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "Grove 4-Digit Display",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/Grove_4-Digit_Display.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "Grove LCD Display 16x2 I2C",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/Grove_LCD_Display_16x2_I2C.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "Grove OLED 0.66 Display SSD1306",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/Grove_OLED_0.66_Display_SSD1306.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "Grove OLED 0.96 Display SSD1315",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/Grove_OLED_0.96_Display_SSD1315.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "Grove OLED 1.12 Display SH1107",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/Grove_OLED_1.12_Display_SH1107.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "LCD Display 16x2 I2C",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/LCD_Display_16x2_I2C.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "Waveshare E-Ink 2.7 Display Pi Hat",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/Waveshare_E-Ink_2.7_Display_Pi_Hat.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "Waveshare E-Ink 2.9 Display",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Displays/Waveshare_E-Ink_2.9_Display.md",
+    "category": "display",
+    "image": null
+  },
+  {
+    "name": "Adafruit FeatherWing ESP32 AirLift",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Adafruit_FeatherWing_ESP32_AirLift.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Adafruit FeatherWing Grove/Qwiic",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Adafruit_FeatherWing_Grove_Qwiic.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Adafruit FeatherWing Motor Driver",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Adafruit_FeatherWing_Motor_Driver.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Adafruit FeatherWing Prop Maker",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Adafruit_FeatherWing_Prop_Maker.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Adafruit FeatherWing RFM95W 900MHz",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Adafruit_FeatherWing_RFM95W_900MHz.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Fingerprint Module Capacitive R503",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Fingerprint_Module_Capacitive_R503.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Fingerprint Module Ultra-Slim",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Fingerprint_Module_Ultra-Slim.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Fingerprint Module ZFM-20",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Fingerprint_Module_ZFM-20.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove 1-Wire Thermocouple Amplifier MAX31850K",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_1-Wire_Thermocouple_Amplifier_MAX31850K.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove ADC for Load Cell HX711",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_ADC_for_Load_Cell_HX711.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove I2C ADC 121C021",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_I2C_ADC_121C021.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove I2C Hub",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_I2C_Hub.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove I2C Mini Motor Driver DRV8830",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_I2C_Mini_Motor_Driver_DRV8830.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove I2C Thermocouple Amplifier MCP9600",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_I2C_Thermocouple_Amplifier_MCP9600.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove LoRa Module Wio-E5",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_LoRa_Module_Wio-E5.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove Mini Fan DC Motor Driver",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_Mini_Fan_DC_Motor_Driver.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove RFID Reader 125kHz",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_RFID_Reader_125kHz.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove RS485 Module MAX13478E",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_RS485_Module_MAX13478E.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove Real Time Clock DS1307",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Grove_Real_Time_Clock_DS1307.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Nordic nRF7002-EK",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Nordic_nRF7002-EK.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Ublox GPS Module PAM-7Q",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Modules/Ublox_GPS_Module_PAM-7Q.md",
+    "category": "module",
+    "image": null
+  },
+  {
+    "name": "Grove Electromagnet",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_Electromagnet.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove IR Emitter",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_IR_Emitter.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED Bar",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_Bar.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED Circular",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_Circular.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED RGB Chainable",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_RGB_Chainable.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED RGB Variable",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_RGB_Variable.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED Red",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_Red.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED Ring 20 WS2813 Mini",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_Ring_20_WS2813_Mini.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED Stick 10 WS2813 Mini",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_Stick_10_WS2813_Mini.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED Stick 20 WS2813 Mini",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_Stick_20_WS2813_Mini.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove LED Strip Driver",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_LED_Strip_Driver.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove Piezo Buzzer",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_Piezo_Buzzer.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove Relay",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_Relay.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove Servo",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_Servo.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Grove Vibration Motor",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Actuators/Grove_Vibration_Motor.md",
+    "category": "actuator",
+    "image": null
+  },
+  {
+    "name": "Adafruit Feather ESP32 Huzzah32",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Adafruit_Feather_ESP32_Huzzah32.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Adafruit Feather ESP32 Huzzah32 w/ Stacking Headers",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Adafruit_Feather_ESP32_Huzzah32_w_Stacking_Headers.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Adafruit Feather ESP8266 Huzzah w/ Stacking Headers",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Adafruit_Feather_ESP8266_Huzzah_w_Stacking_Headers.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Adafruit Feather M4 Express",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Adafruit Feather M4 Express w/ Stacking Headers",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Adafruit_Feather_M4_Express_w_Stacking_Headers.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Adafruit Feather QT Py ESP32-S2",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Adafruit_Feather_QT_Py_ESP32-S2.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Adafruit Feather nRF52840 Express",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Adafruit_Feather_nRF52840_Express.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Adafruit Feather nRF52840 Sense",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Adafruit_Feather_nRF52840_Sense.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "BBC Microbit",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/BBC_Microbit.md",
+    "category": "microcontroller",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprobots.co.in%2Fpub%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd8ddd0f9b0cd008b57085cd218b48832%2Fb%2Fb%2Fbbc_micro_bit_v1.5_development_board_programmable_single_board_computer_5_.jpg&f=1&nofb=1&ipt=a4c1f299d8b47c5674ee27907e0746f6f058437c33e02e5901f0cfe6a923fa34"
+  },
+  {
+    "name": "BBC Microbit v2",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/BBC_Microbit_v2.md",
+    "category": "microcontroller",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.made-in-china.com%2F2f0j00azSkcCJgAmpr%2FBbc-Micro-Bit-V2-Board-for-Kids-Microbit-V2.jpg&f=1&nofb=1&ipt=7d9068178a87e9b3a3e0bef6ded0f757346a8ee62c72f26494598923474112ea"
+  },
+  {
+    "name": "Espressif ESP32-C3 DevKitM-1",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-C3_DevKitM-1.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Espressif ESP32-C6 DevKitC-1",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-C6_DevKitC-1.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Espressif ESP32-H2 DevKitM-1",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-H2_DevKitM-1.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Espressif ESP32-S2 Saola-1-R",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-S2_Saola-1-R.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Espressif ESP32-S3 DevKitC-1-N32R8V",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-S3_DevKitC-1-N32R8V.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Espressif ESP32-S3 DevKitC-1-N8",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-S3_DevKitC-1-N8.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Espressif ESP32-S3 DevKitC-1-N8R2",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-S3_DevKitC-1-N8R2.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Espressif ESP32-S3 DevKitC-1-N8R8",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-S3_DevKitC-1-N8R8.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Espressif ESP32-S3 DevKitM-1-N8",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Espressif_ESP32-S3_DevKitM-1-N8.md",
+    "category": "microcontroller",
+    "image": null
+  },
+  {
+    "name": "Nordic Thingy-91 X",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Nordic_Thingy-91_X.md",
+    "category": "microcontroller",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nordicsemi.jp%2Fimages%2Fthingy91x-perspective-split-nordic-semi-wireless-iot-aax5-600w.jpeg&f=1&nofb=1&ipt=4767000a2a3d1a2a6fa2c0e0b13ba7d1656932eba48a20457be30b5ce53ca598"
+  },
+  {
+    "name": "Nordic nRF9151-DK",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Nordic_nRF9151-DK.md",
+    "category": "microcontroller",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nordicsemi.com%2F-%2Fmedia%2FImages%2FProducts%2FDevKits%2FnRF91-Series%2FnRF9151-DK%2FnRF9151-DK-_perspective_prod_page.png%3Fh%3D500%26iar%3D0%26mh%3D500%26w%3D1004%26hash%3D143DA2F0304DEA2D4DC95AAAFA87E710&f=1&nofb=1&ipt=e80751d3a8812c73be79126630a7f7d3db204c298fe518f1be661003b6ba5884"
+  },
+  {
+    "name": "Raspberry Pi Pico 2 RP2350",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Raspberry_Pi_Pico_2_RP2350.md",
+    "category": "microcontroller",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa.allegroimg.com%2Foriginal%2F1100ee%2F43be245d48cab24260ed53d64832%2FRaspberry-Pi-Pico-2W-RP2350-WiFi-Bluetooth&f=1&nofb=1&ipt=736ed3e091f26c898ad0fb9d55f3691b0d40014d3e8453aac93aba0827dc8178"
+  },
+  {
+    "name": "Raspberry Pi Pico 2 W RP2350",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Raspberry_Pi_Pico_2_W_RP2350.md",
+    "category": "microcontroller",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa.allegroimg.com%2Foriginal%2F1100ee%2F43be245d48cab24260ed53d64832%2FRaspberry-Pi-Pico-2W-RP2350-WiFi-Bluetooth&f=1&nofb=1&ipt=736ed3e091f26c898ad0fb9d55f3691b0d40014d3e8453aac93aba0827dc8178"
+  },
+  {
+    "name": "Raspberry Pi Pico RP2040",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/Raspberry_Pi_Pico_RP2040.md",
+    "category": "microcontroller",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tcdn.com.br%2Fimg%2Fimg_prod%2F650361%2Fraspberry_pi_pico_rp2040_5079_1_fd323e3d953c90b78303219f9bd0853e.jpg&f=1&nofb=1&ipt=33e2f77b42476f4ae5ffed5c375deba04e616dc5a8151dbbc95b2d94000a5887"
+  },
+  {
+    "name": "UnexpectedMaker FeatherS2 ESP32-S2",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/UnexpectedMaker_FeatherS2_ESP32-S2.md",
+    "category": "microcontroller",
+    "image": "https://cdn-shop.adafruit.com/970x728/4769-13.jpg"
+  },
+  {
+    "name": "UnexpectedMaker FeatherS3 ESP32-S3",
+    "source": "https://github.com/tamberg/fhnw-iot-library/blob/main/Hardware/Microcontrollers/UnexpectedMaker_FeatherS3_ESP32-S3.md",
+    "category": "microcontroller",
+    "image": "https://cdn-shop.adafruit.com/970x728/5399-02.jpg"
+  }
+]
