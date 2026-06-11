@@ -56,7 +56,7 @@ export const constructRow = (part) => {
   return `
     <tr>
       <td>
-        <img src="${part.image}" alt="${part.name}">
+        ${part.image ? `<img src="${part.image}" alt="${part.name}">` : "?"}
       </td>
       <td>${part.name}</td>
       <td>${part.category}</td>
