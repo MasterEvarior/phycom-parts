@@ -121,3 +121,7 @@ footer {
   padding: 1em;
   font-size: 0.75rem;
 }
+
+#disclaimer {
+  color: red;
+}
