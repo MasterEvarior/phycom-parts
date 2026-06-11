@@ -102,18 +102,19 @@ td {
   padding: 0.6em 0.4em;
   border-bottom: 1px solid var(--border);
   vertical-align: middle;
+  word-break: break-word;
+}
 
-  img {
-    display: block;
-    width: 60px;
-    height: 60px;
-    object-fit: cover;
-    border-radius: 4px;
-  }
+td img {
+  display: block;
+  width: clamp(40px, 10vw, 120px);
+  height: clamp(40px, 10vw, 120px);
+  object-fit: cover;
+  border-radius: 4px;
 }
 
 td:first-child {
-  width: 80px;
+  width: clamp(40px, 10vw, 120px);
 }
 
 footer {
@@ -124,4 +125,8 @@ footer {
 
 #disclaimer {
   color: red;
+}
+
+#output {
+  overflow-x: auto;
 }
